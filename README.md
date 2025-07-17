@@ -7,12 +7,13 @@ This is a UI automation testing project built with **Selenium WebDriver** and **
 
 - `src/`
   - `pages/`
+    - `BasePage.java`
     - `LoginPage.java`
     - `DashboardPage.java`
     - `AdminManagementPage.java`
   - `tests/`
     - `AdminUserFlow.java`
-- `BaseTest.java`
+    - `BaseTest.java`
 
 ---
 
