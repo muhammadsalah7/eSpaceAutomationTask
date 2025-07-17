@@ -61,17 +61,3 @@ If you have a `testng.xml` file configured, run the following command in the pro
 mvn test
 
 
-## ✅ What the Test Does
-
-The `AdminUserFlow` test:
-
-- Logs into the system with admin credentials.
-- Navigates to the Admin Management Page.
-- Searches for the **"Admin"** user.
-- Verifies:
-  - The username is **"Admin"**
-  - The role is **"Admin"**
-  - The employee's name matches the expected value
-  - The status is **"Enabled"**
-- Attempts to delete the user and validates that an error message is shown.
-
