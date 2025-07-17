@@ -33,7 +33,7 @@ This is a UI automation testing project built with **Selenium WebDriver** and **
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/muhammadsalah7/eSpaceAutomationTask.git
-   cd admin-user-flow-automation
+   cd eSpaceAutomationTask
 2. **Install Dependencies**
     Ensure you have Maven and JDK installed, then run: mvn clean install
 3. **Configure WebDriver**
