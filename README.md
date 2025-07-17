@@ -3,21 +3,17 @@
 This is a UI automation testing project built with **Selenium WebDriver** and **TestNG**, following the **Page Object Model (POM)** design pattern. The test validates the admin user flow for logging in, verifying user details, and attempting to delete a user on an admin management page.
 
 ---
+## 📁 Project Structure
 
-## 📦 Project Structure
-project-root/
-│
-├── src/
-│ ├── pages/
-│ │ ├── BasePage.java
-│ │ ├── LoginPage.java
-│ │ ├── DashboardPage.java
-│ │ └── AdminManagementPage.java
-│ └── tests/
-│ │ ├── BaseTest.java
-│ └── AdminUserFlow.java
-└── testng.xml
-└── pom.xml
+- `src/`
+  - `pages/`
+    - `LoginPage.java`
+    - `DashboardPage.java`
+    - `AdminManagementPage.java`
+  - `tests/`
+    - `AdminUserFlow.java`
+- `BaseTest.java`
+
 ---
 
 ## 🛠 Tools & Technologies Used
