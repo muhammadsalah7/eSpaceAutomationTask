@@ -1,0 +1,8 @@
+
+<suite name="Suite1">
+    <test name="myTest">
+        <classes>
+            <class name="tests.AdminUserFlow"/>
+        </classes>
+    </test>
+</suite>
