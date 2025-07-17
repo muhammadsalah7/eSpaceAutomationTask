@@ -43,18 +43,11 @@ This is a UI automation testing project built with **Selenium WebDriver** and **
     If using a configuration file or BaseTest setup, make sure your WebDriver is initialized correctly.
 
 ## ▶️ How to Run the Test
-
-You can run the test in one of the following ways:
-
-### ✅ Option 1: Through the IDE
+### Through the IDE
 - Open the project in IntelliJ IDEA, Eclipse, or any Java IDE.
 - Navigate to the `AdminUserFlow.java` file.
 - Right-click the file and select **Run**.
 
-### ✅ Option 2: Using Maven
-If you have a `testng.xml` file configured, run the following command in the project directory:
 
-```bash
-mvn test
 
 
