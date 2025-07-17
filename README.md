@@ -35,7 +35,7 @@ project-root/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/admin-user-flow-automation.git
+   git clone https://github.com/muhammadsalah7/eSpaceAutomationTask.git
    cd admin-user-flow-automation
 2. **Install Dependencies**
     Ensure you have Maven and JDK installed, then run: mvn clean install
