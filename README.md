@@ -1,7 +1,7 @@
 # 🧪 Admin User Flow Test Automation
 This UI automation testing project was built using Selenium WebDriver and TestNG, following the Page Object Model (POM) design pattern for clean architecture and maintainability.
 - 🧡 The test suite targets the OrangeHRM demo site, simulating an admin user's interaction with the system.
-### 🔗 Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+- 🔗 Base URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 
 ---
