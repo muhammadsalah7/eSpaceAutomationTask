@@ -1,6 +1,7 @@
 # Admin User Flow Test Automation
 
 This is a UI automation testing project built with **Selenium WebDriver** and **TestNG**, following the **Page Object Model (POM)** design pattern. The test validates the admin user flow for logging in, verifying user details, and attempting to delete a user on an admin management page.
+🔍 The test suite validates the Admin user flow on the OrangeHRM website.
 
 ---
 ## 📁 Project Structure
